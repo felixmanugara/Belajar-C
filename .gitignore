@@ -4,4 +4,4 @@ obj/
 *.exe
 *.cbp
 *.layout
-*tempCodeRunnerFile
+tempCodeRunnerFile.c
