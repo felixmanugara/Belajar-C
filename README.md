@@ -20,6 +20,8 @@ https://youtu.be/KJgsSFOSQv0
 3. saat menu "compiler auto-detection" muncul, pilihlah "GNU GCC compiler" as default.
 4. selamat mencoba!!
 
+jika kesulitan dapat melihat cara installasi pada video berikut. https://youtu.be/KSMQXpoBfzY
+
 
 
    
