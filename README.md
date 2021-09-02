@@ -1,4 +1,4 @@
-# Belajar Dasar-Dasar Bahasa C
+# Belajar Bahasa C Dasar
 
 Repo ini berisi dasar-dasar yang diperlukan untuk menguasai Bahasa C,
 repo ini dibuat berdasarkan course dari freecodecamp. Link video dapat dilihat 
